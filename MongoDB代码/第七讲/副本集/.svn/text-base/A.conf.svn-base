@@ -1,0 +1,4 @@
+dbpath = D:\sortware\mongod\02\A
+port = 1111  #端口
+bind_ip = 127.0.0.1 #服务地址
+replSet = child/127.0.0.1:2222 #设定同伴

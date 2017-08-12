@@ -1,0 +1,4 @@
+dbpath = D:\sortware\mongod\02\B
+port = 2222
+bind_ip = 127.0.0.1
+replSet = child/127.0.0.1:3333

@@ -1,0 +1,2 @@
+cd C:\Users\thinkpad\Desktop\MONGODB\mongodb-win32-x86_64-2.0.6
+bin\mongod.exe --config ../mongodb.conf
